@@ -1,0 +1,518 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Harish Ravindran",
+    "label": "Independent Consultant and Software Developer",
+    "image": "./image.jpg",
+    "email": "me@rhrish.com",
+    "phone": "(+33) ** ** ** ** ** (on request)",
+    "url": "https://tech.rhrish.com",
+    "summary": "Independent consultant with 15+ years of experience across IT, entertainment and NGO sector, with a range of transferable skills, including but not limited to critical thinking, problem solving, mentoring, and project management. Primary expertise in web application architecture, accessibility, performance engineering, and workplace internal tooling. Mentor for career change directed towards frontend, backend, and fullstack development. Polyglot programmer, and a self-hosting advocate, with a focus on privacy.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "Ile-de-France"
+    },
+    "profiles": [
+      {
+        "network": "Fediverse",
+        "username": "@ha@rhrish.com",
+        "url": "https://rhrish.com/@ha"
+      },
+      {
+        "network": "Bandcamp",
+        "username": "Harish Vijaya",
+        "url": "https://harishvijaya.bandcamp.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "OpenClassrooms",
+      "location": "Paris, France",
+      "position": "Mentor (Remote contract)",
+      "url": "https://www.openclassrooms.com",
+      "startDate": "2017-05-01",
+      "endDate": "Present",
+      "summary": "Career mentor for fullstack, frontend, and backend paths.",
+      "skills": [
+        "Ruby on Rails",
+        "PostgreSQL",
+        "UML",
+        "HTML",
+        "CSS",
+        "React",
+        "VueJS",
+        "Git",
+        "RDBMS concepts",
+        "REST APIs",
+        "MongoDB",
+        "NodeJS",
+        "Express"
+      ],
+      "highlights": [
+        "guides and mentors people desirous of shifting their careers to IT",
+        "focuses on accessibility, usability, frontend, backend and fullstack technologies",
+        "experienced in handling over 3500+ hours of one-on-one mentoring sessions and project assessments, completely remote"
+      ]
+    },
+    {
+      "name": "Capacity Building Unit, International Disability Alliance",
+      "location": "Paris, France",
+      "position": "Knowledge Platform Consultant (Remote contract)",
+      "url": "https://internationaldisabilityalliance.org",
+      "startDate": "2020-12-01",
+      "endDate": "2022-07-28",
+      "summary": "Knowledge platform consultant, with a focus on accessibility standards; primarily worked with the Capacity Building Unit of the IDA.",
+      "skills": [
+        "D2L Brightspace",
+        "HTML",
+        "CSS",
+        "Blackboard Ally",
+        "Shell scripting",
+        "WCAG 2"
+      ],
+      "highlights": [
+        "evaluated multiple vendors and implemented the online learning platform within the IDA, that is currently being used by it and its member organisations to impart online courses",
+        "co-facilitated new courses for its member organisations, and onboarded new users into the platform",
+        "acted as the point of contact for all platform support requests",
+        "managed end-to-end customization of the platform, to comply with IDA's standards",
+        "additionally, was responsible for the evaluation of vendors for various technology requirements across the organisation"
+      ]
+    },
+    {
+      "name": "Social Media & Workplace Reimagination, TATA Consultancy Services",
+      "location": "Chennai, India",
+      "position": "Data Analytics Architect",
+      "url": "https://www.tcs.com",
+      "startDate": "2014-08-01",
+      "endDate": "2016-09-28",
+      "summary": "Led the development of the analytics platform to measure, analyse and interpret social interactions across multiple enterprise social networking solutions.",
+      "skills": [
+        "Ruby on Rails",
+        "PostgreSQL",
+        "D3js",
+        "Python/Bash scripts",
+        "JQ",
+        "Apache Spark",
+        "Kafka",
+        "Machine Learning",
+        "NLP",
+        "AWS provisioning/administration"
+      ],
+      "highlights": [
+        "responsible for system design and the architecture of the data analytics platform",
+        "managed the analytics team across multiple geographies and coordinated remotely, through Kanban boards and Slack",
+        "designed process pipelines for data extraction, data cleansing and data correction",
+        "built and mentored the analytics team from the ground-up, and imparted training to fresh recruits"
+      ]
+    },
+    {
+      "name": "TCS Innovation Labs, TATA Consultancy Services",
+      "location": "Chennai, India",
+      "position": "Solution Architect",
+      "url": "https://www.tcs.com",
+      "startDate": "2010-10-01",
+      "endDate": "2014-07-28",
+      "summary": "Held several responsibilities and positions within the team from being a development lead, to leading the performance engineering team, liaising between corporate infrastructure teams, as well as building training programs and imparting training to new developers.",
+      "skills": [
+        "Ruby on Rails",
+        "PostgreSQL",
+        "Git",
+        "HTML/CSS",
+        "Javascript",
+        "Memcached",
+        "Redis",
+        "Resque",
+        "Nginx",
+        "HAProxy",
+        "Linux server administration",
+        "Python/Shell script",
+        "D3js",
+        "Performance engineering",
+        "Database optimization"
+      ],
+      "highlights": [
+        "co-developed the system design, architecture and  co-led the development of the TCS Corporate Social Networking platform",
+        "developed strategies for integrating various internal legacy systems with the platform",
+        "led the performance engineering team, and was involved in the tuning and optimization of the application server and PostgreSQL database",
+        "developed a performance-testing model based on the existing traffic data",
+        "managed the infrastructure requirements for the platform and liaised with the corporate infrastructure teams",
+        "developed training programs and training material for new developers on topics including Ruby/Ruby on Rails/MVC concepts"
+      ]
+    },
+    {
+      "name": "TATA Consultancy Services",
+      "location": "Tampa Bay Area – FL, US, and Chennai - India",
+      "position": "Technology Consultant",
+      "url": "https://www.tcs.com",
+      "startDate": "2011-02-01",
+      "endDate": "2011-04-28",
+      "summary": "Technology Consultant for an American Media Research client(Nielsen Media Research) based in Tampa Bay Area.",
+      "skills": [
+        "Akamai",
+        "CDN"
+      ],
+      "highlights": [
+        "helped evaluate and validate proof-of-concepts proposed by vendors in the Content Delivery Network space."
+      ]
+    },
+    {
+      "name": "TATA Consultancy Services",
+      "location": "Cincinnati – OH, US, and Chennai, India",
+      "position": "Solution Engineer",
+      "url": "https://www.tcs.com",
+      "startDate": "2010-01-01",
+      "endDate": "2010-09-28",
+      "summary": "'Social Enabled'​ Sourcing Platform (for Procter & Gamble, Cincinnati).",
+      "skills": [
+        "Ruby on Rails",
+        "PostgreSQL",
+        "JQuery",
+        "Bootstrap",
+        "Shell script"
+      ],
+      "highlights": [
+        "developed a solution to enable technology-driven social collaboration among the sourcing team of Procter & Gamble and their vendors, in Cincinnati",
+        "integrated TCS' social networking platform with the customer's sourcing platforms and tools",
+        "conducted a one-on-one platform usage training session with each member of the sourcing team at the Proctor & Gamble head office"
+      ]
+    },
+    {
+      "name": "TCS Innovation Labs, TATA Consultancy Services",
+      "location": "Chennai, India",
+      "position": "Technical Lead",
+      "url": "https://www.tcs.com",
+      "startDate": "2009-01-01",
+      "endDate": "2009-12-28",
+      "summary": "Co-developed a strategy for converting the team's internal social networking platform into a multi-tenant solution.",
+      "skills": [
+        "SAML",
+        "Ruby on Rails",
+        "PostgreSQL",
+        "Python scripting"
+      ],
+      "highlights": [
+        "co-developed a strategy and co-designed the architecture for a scalable, distributed, and a multi-tenant version of the team's social networking platform; this involved tackling various challenges with data compartmentalization for each instance, and distributed patch management",
+        "developed a REST based multi-tenant API for the distributed setup"
+      ]
+    },
+    {
+      "name": "TCS Innovation Labs, TATA Consultancy Services",
+      "location": "Chennai, India",
+      "position": "Developer",
+      "url": "https://www.tcs.com",
+      "startDate": "2008-05-01",
+      "endDate": "2008-12-28",
+      "summary": "Primarily responsible for developing proof-of-concept web applications on Ruby on Rails.",
+      "skills": [
+        "REST API",
+        "OAuth",
+        "Ruby on Rails",
+        "PostgreSQL",
+        "MySQL",
+        "HTML/CSS",
+        "Javascript",
+        "Python scripting",
+        "Linux administration"
+      ],
+      "highlights": [
+        "developed a Web 2.0 debating platform, modelled after the Oxford style of debating, allowing enterprise users to discuss contentious issues",
+        "co-developed various proof of concept for TCS’ knowledge management platform",
+        "demonstrated security vulnerabilities within TCS’ intranet portal and provided recommendations"
+      ]
+    },
+    {
+      "name": "TATA Consultancy Services",
+      "location": "Chennai, India",
+      "position": "Security Analyst",
+      "url": "https://www.tcs.com",
+      "startDate": "2006-09-01",
+      "endDate": "2008-04-28",
+      "summary": "Responsible for evaluating and help maintain internal security of intranet and external facing web applications for Motorola.",
+      "skills": [
+        "WebInspect",
+        "OWasp security audit tools",
+        "Python",
+        "Javascript"
+      ],
+      "highlights": [
+        "conducted vulnerability assessments, penetration testing of internal and external facing web applications of the customer (Motorola)",
+        "delivered security assessment reports based on evaluation of the web applications",
+        "conducted manual security assessment based on OWASP standards for priority web applications",
+        "developed proof of concepts to demonstrate and highlight the security holes within the organisation’s internal portals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Thiagarajar College of Engineering (Anna University), Madurai, India",
+      "url": "https://tce.edu/",
+      "area": "Computer Application",
+      "studyType": "Master",
+      "startDate": "2003-04-01",
+      "endDate": "2006-04-01",
+      "score": "Distinction",
+      "courses": []
+    },
+    {
+      "institution": "Vivekananda College (Madurai Kamaraj University), Madurai, India",
+      "url": "https://www.vivekanandacollege.ac.in/",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2000-04-01",
+      "endDate": "2003-04-01",
+      "score": "Distinction",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Primary",
+      "level": "Master",
+      "keywords": [
+        "Tailwind",
+        "Svelte",
+        "Rack",
+        "Ruby",
+        "Ruby on Rails",
+        "Sinatra",
+        "Git",
+        "MySQL",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "Bash Scripting",
+        "Server Administration",
+        "Linux",
+        "Caddy",
+        "Nginx",
+        "Memcached",
+        "Docker",
+        "Express",
+        "NodeJS",
+        "OAuth",
+        "REST APIs",
+        "Self Hosting",
+        "JAMStack"
+      ]
+    },
+    {
+      "name": "No Code/Quick Tooling",
+      "level": "Master",
+      "keywords": [
+        "N8N automations",
+        "Google Apps Scripting",
+        "Appsmith",
+        "Budibase",
+        "Appwrite",
+        "Pocketbase",
+        "11ty",
+        "Hugo",
+        "Wordpress",
+        "Stripe API",
+        "Minio (S3)"
+      ]
+    },
+    {
+      "name": "Others",
+      "level": "Master",
+      "keywords": [
+        "Vue",
+        "React",
+        "Flutter",
+        "Python",
+        "Javascript",
+        "Apache",
+        "HAProxy",
+        "Bootstrap",
+        "Apache Spark",
+        "Kafka",
+        "Octave",
+        "Awk",
+        "D3js",
+        "GNUplot",
+        "Scikit-learn/Pandas/Numpy",
+        "Machine learning",
+        "Elasticsearch",
+        "Kibana",
+        "Logstash",
+        "Vagrant",
+        "AWS administration",
+        "Slack",
+        "Gitlab",
+        "Jenkins",
+        "D2L Brightspace administration"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native/Bilingual"
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Native/Bilingual"
+    },
+    {
+      "language": "French",
+      "fluency": "Functional"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Analog synthesizers",
+        "SynthDIY",
+        "Modular synthesis",
+        "Max MSP"
+      ]
+    },
+    {
+      "name": "Theatre",
+      "keywords": [
+        "Acting",
+        "Monologues"
+      ]
+    },
+    {
+      "name": "Photography",
+      "keywords": [
+        "Film photography",
+        "35mm"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "School Admin Solution",
+      "description": "This solution, built for a renowned theatre school, has transformed existing manual administrative processes to automated processes wherever applicable.",
+      "highlights": [
+        "solution built mostly with no-code tools",
+        "handles several administrative processes like admissions, reports/certificate generations, courses management, class scheduling, and payments tracking.",
+        "training for non-technical end users to manage the system",
+        "continual maintenance and ongoing updates based on COVID/post-pandemic policies"
+      ],
+      "keywords": [
+        "Appsmith",
+        "Budibase",
+        "Google Apps Scripting",
+        "MySQL",
+        "N8N Automations",
+        "Linux server administration",
+        "Docker"
+      ],
+      "startDate": "2021-03-01",
+      "endDate": "2021-12-30",
+      "url": "https://epg.philippegaulier.com/",
+      "roles": [
+        "Solution Consultant and Developer"
+      ],
+      "entity": "Ecole Philippe Gaulier",
+      "type": "application"
+    },
+    {
+      "name": "Online Book Store",
+      "description": "A simple online book store for a private client to be able to sell their books.",
+      "highlights": [
+        "delivered the entire solution within a short timeframe of 2 weeks",
+        "trained the site owners(non technical users) to be able to add new products, take care of shipping and taxes",
+        "integrated payments with Stripe API"
+      ],
+      "keywords": [
+        "Hugo",
+        "Snipcart",
+        "Netlify",
+        "JAMStack",
+        "Stripe",
+        "Linux server administration",
+        "Docker"
+      ],
+      "startDate": "2020-07-26",
+      "endDate": "2020-08-11",
+      "url": "https://books.philippegaulier.com/",
+      "roles": [
+        "Solution Consultant and Developer"
+      ],
+      "entity": "Èditions Filmiko",
+      "type": "application"
+    },
+    {
+      "name": "Casting Newsletter automation",
+      "description": "This personal project, hosted on a private network, declutters a triweekly French newsletter received from a casting agency, into a readable website that is navigable with keyboard, with the ability to filter through different types of casting calls, and has an English translation support as well.",
+      "highlights": [
+
+      ],
+      "keywords": [
+        "N8N Automations",
+        "MySQL",
+        "LibreTranslate",
+        "Svelte",
+        "Tachyon CSS",
+        "Rack",
+        "Sinatra",
+        "Docker",
+        "Linux"
+      ],
+      "startDate": "2022-11-20",
+      "endDate": "2022-11-21",
+      "url": "",
+      "roles": [
+        "Developer"
+      ],
+      "entity": "Personal Project",
+      "type": "application"
+    },
+    {
+      "name": "Personal Cloud",
+      "description": "This is a private network setup that uses self-hosted services and products, accessible only through secure methods, for daily usage of photos backup, music service, calendar/contacts sync, personal document management, as well as an occasional test ground for testing new self-hosted tools.",
+      "highlights": [
+      ],
+      "keywords": [
+        "OpenWRT",
+        "ADGuard",
+        "LibreTranslate",
+        "NextCloud",
+        "Paperless",
+        "Nginx",
+        "RSync",
+        "Wireguard",
+        "Docker",
+        "Linux"
+      ],
+      "startDate": "2020-03-01",
+      "endDate": "Present",
+      "url": "",
+      "roles": [
+        "Developer"
+      ],
+      "entity": "Personal Project",
+      "type": "application"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2013-04-01",
+      "issuer": "Stanford University(Online), Coursera",
+      "url": "https://www.coursera.org/specializations/machine-learning-introduction"
+    },
+    {
+      "name": "Introduction to Data Science",
+      "date": "2013-05-01",
+      "issuer": "University of Washington(Online), Coursera",
+      "url": "https://www.coursera.org/specializations/data-science"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00",
+    "note": "If you're looking at this, you should know that this file doesn't exactly follow the JSON resume standard."
+  }
+}
