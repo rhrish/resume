@@ -444,7 +444,7 @@
     },
     {
       "name": "Casting Newsletter automation",
-      "description": "This personal project, hosted on a private network, declutters a triweekly French newsletter received from a casting agency, into a readable website that is navigable with keyboard, with the ability to filter through different types of casting calls, and has an English translation support as well.",
+      "description": "This project, hosted on a private network, declutters a triweekly French newsletter received from a casting agency, into a readable website that is navigable with keyboard, with the ability to filter through different types of casting calls, and has an English translation support as well.",
       "highlights": [
 
       ],
@@ -465,7 +465,7 @@
       "roles": [
         "Developer"
       ],
-      "entity": "Personal Project",
+      "entity": "Private",
       "type": "application"
     },
     {
