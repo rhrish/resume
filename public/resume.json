@@ -110,6 +110,30 @@
       ]
     },
     {
+      "name": "TCS SaRiGaMa Margazhi App, TATA Consultancy Services",
+      "location": "Chennai, India",
+      "position": "Data Engineering Team Lead",
+      "url": "https://www.tcs.com",
+      "startDate": "2014-09-01",
+      "endDate": "2014-12-15",
+      "summary": "Led a team of data engineers to source, clean, and organize data from various sources for the December music festival in Chennai.",
+      "skills": [
+        "Ruby Scripting",
+        "JQ",
+        "CSV Tools",
+        "Python/Bash scripts",
+        "Cron jobs",
+        "SQL",
+        "PostgreSQL"
+      ],
+      "highlights": [
+        "implemented a data pipeline and successfully integrated data into a central store for use by the development team",
+        "accomplished accurate and timely information for the app users",
+        "designed process pipelines for data extraction, data cleansing and data correction",
+        "built and mentored the data team from the ground-up"
+      ]
+    },
+    {
       "name": "TCS Innovation Labs, TATA Consultancy Services",
       "location": "Chennai, India",
       "position": "Solution Architect",
